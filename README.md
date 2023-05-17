@@ -1,5 +1,5 @@
 # Sliding Puzzels
-Algorithm method used the project.  
+Algorithm method used the project.  It is used to adjacency list data structuer and algorithm is the sink elimination algorithm 
 
 ## CRITERIA MEETING IN THIS ASSIGNMENT
 1. Knowledge and understanding of facts, concepts, principles & theories
